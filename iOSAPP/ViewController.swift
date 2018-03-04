@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("第一次修改")
+        
+        print("第二次提交")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
